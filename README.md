@@ -16,3 +16,5 @@ The repository currently contains the following algorithms:
 * **Deep-Recurrent-Q-Network** - An implementation of a Deep Recurrent Q-Network which can solve reinforcement learning problems involving partial observability.
 * **Q-Exploration** - An implementation of DQN containing multiple action-selection strategies for exploration. Strategies include: greedy, random, e-greedy, Boltzmann, and Bayesian Dropout.
 * **A3C-Doom** - An implementation of Asynchronous Advantage Actor-Critic (A3C) algorithm. It utilizes multiple agents to collectively improve a policy. This implementation can solve RL problems in 3D environments such as VizDoom challenges.
+
+aljfa;jf;sljfalj
